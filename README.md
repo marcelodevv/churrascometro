@@ -1,4 +1,4 @@
-# Título do Projeto
+# Churrascometro
 
 Este projeto, desenvolvido com HTML, CSS e JavaScript puro, calcula o custo por pessoa em um churrasco, considerando adultos, crianças e a quantidade de cerveja necessária para o evento.
 
